@@ -9,7 +9,7 @@ PKG_VERSION:=1.0.0
 PKG_REV:=2d1b58bc6d6dbe397dee1dd1729129bc4871b890
 PKG_RELEASE:=1
 
-PKG_SOURCE_URL:=https://github.com/Waujito/youtubeUnblock.git
+PKG_SOURCE_URL:=https://github.com/jilizart/youtubeUnblock.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_VERSION:=$(PKG_REV)
 
